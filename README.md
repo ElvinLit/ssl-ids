@@ -1,4 +1,4 @@
-# SAFE: Self Supervised Learning for Intrusion Detection Systems
+# SAFE: Self Supervised Learning for Intrusion Detection Systems (AICS'25)
 This repository contains implementation for the framework described in the following paper: https://arxiv.org/abs/2502.07119  
 
 Our self-supervised learning intrusion detection framework consists of 4 modules:  
